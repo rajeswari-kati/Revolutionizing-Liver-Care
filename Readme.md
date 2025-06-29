@@ -62,9 +62,9 @@ This is a web-based application that predicts the risk of liver cirrhosis using 
 
 Your app will be live on your free hosted URL!
 
-👨‍💼 Project details
-
-Katireddy Rajeswari
+👨‍💼 Project details:
+# Team id:LTVIP2025TMID47117
+# Katireddy Rajeswari
 Guided under SmartBridge - IIC Internship 2025
 Role: Project Leader \& ML Developer
 Project: "Revolutionizing Liver Care through AI"
