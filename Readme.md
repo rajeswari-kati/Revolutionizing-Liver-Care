@@ -68,7 +68,7 @@ Your app will be live on your free hosted URL!
 Guided under SmartBridge - IIC Internship 2025
 Role: Project Leader \& ML Developer
 Project: "Revolutionizing Liver Care through AI"
-
+Demo link:https://youtu.be/g4ELCVFcr8Y
 📃 License
 This project is for educational and research use under the MIT License.
 
